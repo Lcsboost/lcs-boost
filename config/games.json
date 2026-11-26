@@ -1,0 +1,26 @@
+{
+  "processos": [
+    "csgo.exe",
+    "cs2.exe",
+    "valorant.exe",
+    "valorant-win64-shipping.exe",
+    "leagueoflegends.exe",
+    "league of legends.exe",
+    "fortniteclient-win64-shipping.exe",
+    "gta5.exe",
+    "rdr2.exe",
+    "apex_legends.exe",
+    "r5apex.exe",
+    "overwatch.exe",
+    "destiny2.exe",
+    "warzone.exe",
+    "modernwarfare.exe",
+    "eldenring.exe",
+    "minecraft.exe",
+    "javaw.exe",
+    "rocketleague.exe",
+    "pubg.exe",
+    "tslgame.exe"
+  ],
+  "perfis": {}
+}
